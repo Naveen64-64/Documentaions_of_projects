@@ -2,3 +2,6 @@ Link for the KDL:- https://github.com/Naveen64-64/Documentaions_of_projects/blob
 
 
 Link for the Antenatal Follow-Up System:- https://github.com/Naveen64-64/Documentaions_of_projects/blob/main/Team-1%20Month-2%20Week-01%20Task.docx
+
+
+Link for the Notification_service:- https://github.com/Naveen64-64/Documentaions_of_projects/blob/main/Unified%20NGO%20Management%20and%20Collaboration%20Platform.docx
